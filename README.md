@@ -8,7 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 "_Be the change you want to see in the world._." 🧠
 
- - :brazil: Born in São Paulo, Brazil 
+ - 📍 Born in São Paulo, Brazil 
  - ⚽ Sports lover
 
 Reach me out 👇🏼
