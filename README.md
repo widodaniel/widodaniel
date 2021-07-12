@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey, what's up?
 
-<!--
-**widodaniel/widodaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Daniel Silveira** 😀
 
-Here are some ideas to get you started:
+I'm a **Web Technician** and a student of Systems Analysis and Development, looking to improve my knowledge 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+"_Be the change you want to see in the world._." 🧠
+
+ - :brazil: Born in São Paulo, Brazil 
+ - ⚽ Sports lover
+
+Reach me out 👇🏼
+[Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/dansilver07/)
