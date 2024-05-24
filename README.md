@@ -11,8 +11,9 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 ⚽ Amante de esportes
 
 Entre em contato comigo 👇🏼
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
+***
 ### Hey, what's up?
 
 My name is **Daniel Silveira** 😀
