@@ -1,7 +1,7 @@
 ### E aí, tudo bem?
 Meu nome é Daniel Silveira 😀
 
-Sou *Técnico em informática para internet* e estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos 🖥️
+Sou **Técnico em informática para internet** e estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos 🖥️
 
 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
