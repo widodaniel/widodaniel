@@ -1,3 +1,18 @@
+### E aí, tudo bem?
+Meu nome é Daniel Silveira 😀
+
+Sou *Técnico em informática para internet* e estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos 🖥️
+
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
+
+"Seja a mudança que você quer ver no mundo.." 🧠
+
+📍 Nascido em São Paulo, Brasil
+⚽ Amante de esportes
+
+Entre em contato comigo 👇🏼
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
+
 ### Hey, what's up?
 
 My name is **Daniel Silveira** 😀
