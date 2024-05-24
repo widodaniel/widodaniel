@@ -7,8 +7,8 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 "Seja a mudança que você quer ver no mundo.." 🧠
 
-📍 Nascido em São Paulo, Brasil
-⚽ Amante de esportes
+- 📍 Nascido em São Paulo, Brasil
+- ⚽ Amante de esportes
 
 Entre em contato comigo 👇🏼
 
