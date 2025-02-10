@@ -3,8 +3,7 @@
 Seja bem-vindo ao meu perfil! Escolha seu idioma preferido para saber mais sobre mim.  
 Welcome to my profile! Choose your preferred language to learn more about me.  
 
-🌍 **Selecione um idioma | Select a language:**  
-🇧🇷 **Português** (Abaixo) | [🇺🇸 English](#-english)  
+🇧🇷 **Português** | 🇺🇸 **English**
 
 ---
 
