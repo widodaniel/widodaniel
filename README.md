@@ -1,32 +1,44 @@
-### E aí, tudo bem?
-Meu nome é Daniel Silveira 😀
+## Daniel Silveira 🚀
+Analista de Sistemas | Técnico em Informática para Internet
 
-Sou **Técnico em informática para internet** e estudante de Análise e Desenvolvimento de Sistemas, buscando aprimorar meus conhecimentos 🖥️
+Sou apaixonado por tecnologia, inovação e resolução de problemas. Graduado em Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
-Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
+💡 O que me move?
 
-"Seja a mudança que você quer ver no mundo.." 🧠
+Resolver problemas complexos com soluções criativas e eficientes
+Aprender e evoluir constantemente
+Adaptar-me a mudanças e explorar novas tecnologias
+🖥️ Áreas de interesse:
+✔️ Desenvolvimento Web e Mobile
+✔️ Automação de Processos
+✔️ Análise de Dados e Inteligência Artificial
+✔️ Arquitetura de Software e Cloud Computing
 
-- 📍 Nascido em São Paulo, Brasil
-- ⚽ Amante de esportes
+⚽ Além do mundo tech, sou um grande amante de esportes e acredito que a disciplina e o trabalho em equipe são fundamentais tanto no campo quanto na vida profissional.
 
-Entre em contato comigo 👇🏼
+📍 Nascido em São Paulo, Brasil
+📩 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
+"Seja a mudança que você quer ver no mundo." 🌍✨
+
 ***
-### Hey, what's up?
+## Daniel Silveira 🚀
+Systems Analyst | IT Technician for the Web
 
-My name is **Daniel Silveira** 😀
+I am passionate about technology, innovation, and problem-solving. With a degree in Systems Analysis and Development, I am constantly seeking new challenges and opportunities to enhance my skills.
 
-I'm a **Web Technician** and a student of Systems Analysis and Development, looking to improve my knowledge 🖥️
+💡 What drives me?
 
-I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+Solving complex problems with creative and efficient solutions
+Continuously learning and evolving
+Adapting to changes and exploring new technologies
+🖥️ Areas of Interest:
+✔️ Web and Mobile Development
+✔️ Process Automation
+✔️ Data Analysis and Artificial Intelligence
+✔️ Software Architecture and Cloud Computing
 
-"_Be the change you want to see in the world._." 🧠
+⚽ Beyond the tech world, I am a huge sports enthusiast and believe that discipline and teamwork are essential both on the field and in professional life.
 
- - 📍 Born in São Paulo, Brazil 
- - ⚽ Sports lover
-
-Reach me out 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
+📍 Born in São Paulo, Brazil
+📩 Get in touch with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dansilver07/)](https://www.linkedin.com/in/dansilver07/)
